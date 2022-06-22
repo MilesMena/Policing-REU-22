@@ -1,0 +1,184 @@
+Bibliography
+National Incident-Based Reporting System, 2016: Extract Files
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37066. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Addington, Lynn A., "Police response to same-sex intimate partner
+violence in the marriage equality era." Criminal Justice Studies. 2020, 33,
+(3), 213 - 230. DOI: 10.1080/1478601X.2020.1786277
+
+2. Arndt, Maria; Stolzenberg, Lisa; D'Alessio, Stewart J., "The effects of
+race and physical evidence on the likelihood of arrest for homicide." Race
+and Justice. in press 2020,. DOI: 10.1177/2153368719900358
+
+3. Beck, Allen J., "Race and Ethnicity of Violent Crime Offenders and
+Arrestees, 2018." Statistical Brief. NCJ 255969, Jan 2021.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7226
+Full text PDF: https://www.bjs.gov/content/pub/pdf/revcoa18.pdf
+
+4. Cruz, Erik; D'Alessio, Stewart J.; Stolzenberg, Lisa, "The effect of
+maximum daily temperature on outdoor violence." Crime and Delinquency. in
+press 2020,. DOI: 10.1177/0011128720926119
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7226
+Full text PDF: https://www.bjs.gov/content/pub/pdf/revcoa18.pdf
+
+5. Drawve, Grant; Harris, Casey T.; Thomas, Shaun A.; Datta, Jyotishka;
+Cothren, Jack, "Current and new frontiers: Exploring how place matters
+through Arkansas NIBRS reporting practices." Crime and Delinquency. in
+press 2020,. DOI: 10.1177/0011128720974317
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7226
+Full text PDF: https://www.bjs.gov/content/pub/pdf/revcoa18.pdf
+
+6. Durfee, Alesha; Goodmark, Leigh, "Domestic violence mandatory arrest
+policies and arrests for same-sex and opposite-sex intimate partner
+violence after legalization of same-sex marriage in the United States."
+Criminal Justice Studies. in press 2020,. DOI:
+10.1080/1478601X.2020.1786279
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=7226
+Full text PDF: https://www.bjs.gov/content/pub/pdf/revcoa18.pdf
+
+7. Holder, Eaven, "Political Competition and Predictors of Hate Crime: A
+County-Level Analysis." Thesis, East Tennessee State University, 2018.
+Abstract: https://dc.etsu.edu/etd/3491/
+
+8. Hullenaar, Keith; Ruback, R.B., "Juvenile Violent Victimization, 1995-
+2018." Juvenile Justice Bulletin. NCJ 254796, Washington, DC: Office of
+Juvenile Justice and Delinquency Prevention, Dec 2020.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+9. Idle, Megan, "Child Pornography Crimes as Reported to Law Enforcement
+Agencies." Thesis, Johns Hopkins University, 2019.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+10. Kaplan, Jacob; Goh, Li Sian, "Physical harm reduction in domestic
+violence: Does marijuana make assaults safer?." Journal of Interpersonal
+Violence. in press 2020,. DOI: 10.1177/0886260520961876
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+11. McCamman, Michael, "Beyond Bad Apples: Contextual and Structural
+Sources of Biased Police Behavior." Dissertation, University of Arizona,
+2021.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+12. Pabst, Jennifer; Walfield, Scott M.; Schacht, Ryan, "Patterning of
+sexual violence against women across US cities and counties." Social
+Sciences. 2022, 11,. DOI: 10.3390/socsci11050208
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+13. Scott, Thomas L.; Strom, Kevin J.; Planty, Michael, "Using National
+Incident-Based Reporting System data to assess agency differences in
+clearance rates: A recommendation for law enforcement." Police Practice and
+Research. in press 2022,. DOI: 10.1080/15614263.2021.2022480
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+14. Shaw, Callie D.; Vaughan, Tyler J.; Vandiver, Donna M., "Reported
+sexual-offense incidents in the United States: Arrest disparities between
+women and men." Journal of Interpersonal Violence. in press 2020,. DOI:
+10.1177/0886260520958661
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+15. Tillyer, Marie; Tillyer, Rob, "Co-offending, violence, and situational
+moderators." Journal of Criminal Justice. in press 2019,. DOI:
+10.1016/j.jcrimjus.2019.101626
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+16. Torres, Christopher E.; D'Alessio, Stewart J.; Stolzenberg, Lisa, "Race
+and the probability of police injury." Race and Social Problems. 2020,.
+DOI: 10.1007/s12552-020-09300-5
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279032
+Full text PDF: https://ojjdp.ojp.gov/juvenile-violent-victimization.pdf
+The data in this bulletin are derived from three datasets— the National
+Crime Victimization Survey, the National Incident-Based Reporting System,
+and the National Vital Statistics System. The bulletin examines juvenile
+violent victimization from 1995 to 2018. The OJJDP funded this analysis to
+provide practitioners and researchers with recent information about the
+characteristics of both juvenile victims and juvenile victimizations, and
+how these variables change over time. 12 tables, 2 figures, and 3
+references
+
+17. Whitehill, J.M.; Melnik, M.; Pattavina, A.; Johnson, R.M.; Loveland,
+R.; Bernstein, C.; English, F.; Raisz, A.; McNally, M.; Doonan, S.M.;
+Johnson, J.K., "Identifying Massachusetts Communities Disproportionately
+Impacted by Drug Prohibition." Worcester, MA: Massachusetts Cannabis
+Control Commission, Feb 2021.
+Full text PDF: https://mass-cannabis-control.com/wp-content/uploads/20210310_DI_Study_Report.pdf

@@ -1,0 +1,155 @@
+File Manifest for ICPSR 37066
+
+National Archive of Criminal Justice Data. National Incident-Based
+Reporting System, 2016: Extract Files. ICPSR37066-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2021-07-12. http://doi.org/10.3886/ICPSR37066.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37066-descriptioncitation.pdf       -       -         -       2021-07-12  -
+
+    37066-related_literature.txt        -       -         -       daily       -
+
+    37066-manifest.txt                  -       -         -       daily       -
+
+    37066-Codebook.pdf                  -       -         -       2021-07-12  8d1895468f05346239c6902cfc6be59a
+
+
+DS0001 Incident-Level File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37066-0001-Data.dta.gz              -       unknown   unknown 2018-08-17  6bfc022fdb669497c123d963413ef5df
+
+    37066-0001-Data.rda                 -       5,293,536 390     2018-08-17  2cdd5ffd808b1870c4a496cc760a1c5d
+
+    37066-0001-Data.sav                 -       5,293,536 390     2018-08-17  28f4392fe26a33de4b385d0096556399
+
+    37066-0001-Data.stc.gz              -       unknown   unknown 2018-08-17  0298d4bd7d1b637832ebbb7d6a7c94a1
+
+    37066-0001-Data.tsv.gz              -       unknown   unknown 2018-08-17  be4ce580952a874925ae5533a35a344f
+
+    37066-0001-Data.txt.gz              -       unknown   unknown 2018-08-17  3b001f3bf065dd9a3f1af930a2a43b94
+
+    37066-0001-Documentation-readme_gzip.txt -       -         -       2018-08-17  3e18607e4c48f8b05e27dcace87f014f
+
+    37066-0001-Setup.dct                -       -         -       2018-08-17  8b92eaf0786cac99aa2759ce2e6cf33c
+
+    37066-0001-Setup.do                 -       -         -       2018-08-17  975084b64df9250be1568c3c8fac7a33
+
+    37066-0001-Setup.sas                -       -         -       2018-08-17  eeb2230783c0f8e8c067bc9260869fa3
+
+    37066-0001-Setup.sps                -       -         -       2018-08-17  a717724e74772c7e4f6cf950519b1bed
+
+    37066-0001-Supplemental_syntax.do   -       -         -       2018-08-17  54a469ad938f074e0b937fcfaaa253a5
+
+    37066-0001-Supplemental_syntax.sas  -       -         -       2018-08-17  e324839406954f7bc0f5a4b64faa615d
+
+
+DS0002 Victim-Level File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37066-0002-Data.dta.gz              -       unknown   unknown 2018-08-17  08003235d0662146a39dcd17d5895b23
+
+    37066-0002-Data.rda                 -       5,951,120 294     2018-08-17  51c1c21eac024fd1dc116b92ee978861
+
+    37066-0002-Data.sav                 -       5,951,120 294     2018-08-17  852a1d4c64aafe846ee31bbea76c5d09
+
+    37066-0002-Data.stc.gz              -       unknown   unknown 2018-08-17  14bd5a0945dee308aea1917efbeca892
+
+    37066-0002-Data.tsv.gz              -       unknown   unknown 2018-08-17  eec3a531552a39f1281a8e677f7a161e
+
+    37066-0002-Data.txt.gz              -       unknown   unknown 2018-08-17  2a6087f6a4820f7c98953e2c4b0ded9b
+
+    37066-0002-Documentation-readme_gzip.txt -       -         -       2018-08-17  2333746965b9d60510f155e9f9d5c4c5
+
+    37066-0002-Setup.dct                -       -         -       2018-08-17  9c9620836ba734afe3cf0d0ab0ee329b
+
+    37066-0002-Setup.do                 -       -         -       2018-08-17  ac12cebe34c65fdaad8fe2dbbf699b16
+
+    37066-0002-Setup.sas                -       -         -       2018-08-17  8449df6993ef85ffa2e2686f110bb213
+
+    37066-0002-Setup.sps                -       -         -       2018-08-17  8a2a54009e07110359d2a7f8f2bbd53f
+
+    37066-0002-Supplemental_syntax.do   -       -         -       2018-08-17  201c74a5efc074e97e48f5f846f4fb1d
+
+    37066-0002-Supplemental_syntax.sas  -       -         -       2018-08-17  4e1ac9bf298e749095f2a0bf27c81c8f
+
+
+DS0003 Offender-Level File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37066-0003-Data.dta.gz              -       unknown   unknown 2018-08-17  f8605f6eee04cfcf94002f68ce091282
+
+    37066-0003-Data.rda                 -       6,013,058 380     2018-08-17  816d61490a2c5ca921519d11358250fd
+
+    37066-0003-Data.sav                 -       6,013,058 380     2018-08-17  442f781ebc8f0e20e000f0e36d639e9b
+
+    37066-0003-Data.stc.gz              -       unknown   unknown 2018-08-17  f35d998a600e2d903186748c29f82bf1
+
+    37066-0003-Data.tsv.gz              -       unknown   unknown 2018-08-17  e0e75762025c5df98b55b5e72e21cce8
+
+    37066-0003-Data.txt.gz              -       unknown   unknown 2018-08-17  552ca132e73575e65e64e6f6cedd276e
+
+    37066-0003-Documentation-readme_gzip.txt -       -         -       2018-08-17  33b0f00bb2db3fd4078b35911c64c650
+
+    37066-0003-Setup.dct                -       -         -       2018-08-17  2d0da0906ad7c339c8aaea4c95fbd375
+
+    37066-0003-Setup.do                 -       -         -       2018-08-17  a62f0992009b25ed57414cf5c371cf5c
+
+    37066-0003-Setup.sas                -       -         -       2018-08-17  a5b51e2cedf87899583efb58412f01a8
+
+    37066-0003-Setup.sps                -       -         -       2018-08-17  16a8831961fe9b5b64f7787f0fa52e32
+
+    37066-0003-Supplemental_syntax.do   -       -         -       2018-08-17  74dbd31a8b6bb21e008ee7b543e33136
+
+    37066-0003-Supplemental_syntax.sas  -       -         -       2018-08-17  17035f647af5a92c8b8ae260e176984d
+
+
+DS0004 Arrestee-Level File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37066-0004-Data.dta                 -       3,308,784 362     2018-08-17  5b8370a1a36fd089daacefff7034942a
+
+    37066-0004-Data.rda                 -       3,308,784 362     2018-08-17  c7dc9212a6ff73c8716a8a65ca1fc481
+
+    37066-0004-Data.sav                 -       3,308,784 362     2018-08-17  9c71e4b15c0859c00edcf83803b602fd
+
+    37066-0004-Data.stc.gz              -       unknown   unknown 2018-08-17  bd775b83376ba33bdc0bd72daa3fe5ca
+
+    37066-0004-Data.tsv                 -       3,308,784 362     2018-08-17  ee1ae5ab04cd483134a9b1e593fc0da0
+
+    37066-0004-Data.txt                 1047    3,308,784 362     2018-08-17  a4a445444e1314cf810b353dbaa65fa3
+
+    37066-0004-Documentation-readme_gzip.txt -       -         -       2018-08-17  8e39c7430665d4c5aa3903ec8f73b863
+
+    37066-0004-Setup.dct                -       -         -       2018-08-17  15c91ab762961b03ca1c7a07f187ab75
+
+    37066-0004-Setup.do                 -       -         -       2018-08-17  52802124a92884d9fbd49a9909a41f91
+
+    37066-0004-Setup.sas                -       -         -       2018-08-17  744bf4d75877ed9ecf9c3f256dd3279b
+
+    37066-0004-Setup.sps                -       -         -       2018-08-17  44e6848e63db2b1ce4158d039edd994b
+
+    37066-0004-Supplemental_syntax.do   -       -         -       2018-08-17  6e959d62c2df978b4a4ce9735e08f359
+
+    37066-0004-Supplemental_syntax.sas  -       -         -       2018-08-17  4d95adce21dd4d7e8028bebf74a730d2
+
+
+Version History
+
+2021-07-12 The codebook was updated with variable location information.
